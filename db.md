@@ -24,3 +24,4 @@ Table Name : cars
 
 | ID  | Marca | Modello | Matricola | Data di produzione | Colore | Usata | Venduta | Numero di proprietari | KM  | Prezzo | Equipaggiamento | Condizioni |
 | --- | ----- | ------- | --------- | ------------------ | ------ | ----- | ------- | --------------------- | --- | ------ | --------------- | ---------- |
+|     |       |         |           |                    |        |       |         |                       |     |        |                 |            |
