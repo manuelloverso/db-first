@@ -19,3 +19,8 @@ Table Name : cars
 - Prezzo | MEDIUM | NOTNULL
 - Equipaggiamento | TEXT | NULL |
 - Condizioni | TEXT | NULL
+
+## Table
+
+| ID  | Marca | Modello | Matricola | Data di produzione | Colore | Usata | Venduta | Numero di proprietari | KM  | Prezzo | Equipaggiamento | Condizioni |
+| --- | ----- | ------- | --------- | ------------------ | ------ | ----- | ------- | --------------------- | --- | ------ | --------------- | ---------- |
